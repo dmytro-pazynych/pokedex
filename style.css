@@ -1,0 +1,58 @@
+
+nav {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 2rem;
+    
+  ;
+}
+
+
+td {
+    
+    text-align:  center;
+    
+}
+
+td:hover {
+    background-color: cornflowerblue;
+}
+
+button {
+    width:100%;
+    margin-bottom: 20px !important;
+}
+
+table {
+    width: auto;
+    border: none;
+}
+
+#card {
+    position: fixed;
+    background-color: cornflowerblue;
+    height: auto;
+    width: auto;
+    padding: auto;
+    display: none;
+    text-align: center;
+}
+
+.table {
+    border-bottom:0px !important;
+
+}
+.table th, .table td {
+    border: 0px !important;
+}
+
+#spinner {
+    margin-left: 30%;
+    display: none;
+    
+}
+
+#card img {
+    border: 1px solid black;
+    background-color: white;
+}
